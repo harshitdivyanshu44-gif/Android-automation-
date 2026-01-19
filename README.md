@@ -29,6 +29,14 @@ Run natural‑language commands like:
 ```bash
 pip install 'droidrun[google,anthropic,openai,deepseek,ollama,dev]'
 ```
+```
+droidrun setup
+```
+
+**MobileRun Cloud installation**
+
+
+login in mobilerun cloud with the help of droidrun.apk
 
 
 
