@@ -30,8 +30,6 @@ Run natural‑language commands like:
 pip install 'droidrun[google,anthropic,openai,deepseek,ollama,dev]'
 ```
 
-## 🚀 Quickstart
-Read on how to get droidrun up and running within seconds in [our docs](https://docs.droidrun.ai/v3/quickstart)!   
 
 
 ## 💡 Example Use Cases
@@ -41,6 +39,3 @@ Read on how to get droidrun up and running within seconds in [our docs](https://
 - Automating repetitive tasks on mobile devices
 - Remote assistance for less technical users
 - Exploring mobile UI with natural language commands
-
-   safety scan
-   ```
