@@ -13,3 +13,36 @@ Run natural‑language commands like:
    ```bash
    git clone https://github.com/harshitdivyanshu44-gif/Android-automation.git
    cd Android-automation
+
+   ## Why Droidrun?
+
+- 🤖 Control Android and iOS devices with natural language commands
+- 🔀 Supports multiple LLM providers (OpenAI, Anthropic, Gemini, Ollama, DeepSeek)
+- 🧠 Planning capabilities for complex multi-step tasks
+- 💻 Easy to use CLI with enhanced debugging features
+- 🐍 Extendable Python API for custom automations
+- 📸 Screenshot analysis for visual understanding of the device
+- 🫆 Execution tracing with Arize Phoenix
+
+## 📦 Installation
+
+```bash
+pip install 'droidrun[google,anthropic,openai,deepseek,ollama,dev]'
+```
+
+## 🚀 Quickstart
+Read on how to get droidrun up and running within seconds in [our docs](https://docs.droidrun.ai/v3/quickstart)!   
+
+[![Quickstart Video](https://img.youtube.com/vi/4WT7FXJah2I/0.jpg)](https://www.youtube.com/watch?v=4WT7FXJah2I)
+
+
+## 💡 Example Use Cases
+
+- Automated UI testing of mobile applications
+- Creating guided workflows for non-technical users
+- Automating repetitive tasks on mobile devices
+- Remote assistance for less technical users
+- Exploring mobile UI with natural language commands
+
+   safety scan
+   ```
