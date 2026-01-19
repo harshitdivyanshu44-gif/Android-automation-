@@ -11,4 +11,4 @@ def bootstrap():
 if __name__ == "__main__":
     agent = bootstrap()
     agent.run("Open YouTube, search 'lofi hip hop', play the first result for 30 seconds, then pause.")
-    agent.run("Open Settings, enable Wi-Fi, connect to 'Home_5G' if available.")
+    agent.run("Open Gmail app draft the mail to someone regarding some subject and send it.")
