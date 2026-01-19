@@ -14,7 +14,7 @@ Run natural‑language commands like:
    git clone https://github.com/harshitdivyanshu44-gif/Android-automation.git
    cd Android-automation
 
-   ## Why Droidrun?
+ WHY DROIDRUN?
 
 - 🤖 Control Android and iOS devices with natural language commands
 - 🔀 Supports multiple LLM providers (OpenAI, Anthropic, Gemini, Ollama, DeepSeek)
