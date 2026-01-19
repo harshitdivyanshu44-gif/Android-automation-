@@ -1,0 +1,6 @@
+droidrun.apk in Android devices
+droidrun setup
+MobileRuncloud
+python 3.14.2 
+ADB SETUP
+API keys for LLM'S (OpenAI,ANTHROPIC,GEMINI)
