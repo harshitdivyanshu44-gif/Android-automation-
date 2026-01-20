@@ -32,6 +32,11 @@ pip install 'droidrun[google,anthropic,openai,deepseek,ollama,dev]'
 ```
 droidrun setup
 ```
+     
+```
+https://github.com/droidrun/droidrun
+```
+
 
 **MobileRun Cloud installation**
 
